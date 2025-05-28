@@ -6,9 +6,9 @@ I like to code and built things that work. simple as that. i don't like bloatwar
 
 ## nikostack-web
 This is my stack for anything web related, from simple landing pages to microservices and saas.
-- HTML, Pure PHP or NextJS
+- HTML, PHP or NextJS
 - PicoCSS, Brush(invite-beta) or TailwindCSS
-- PureJS
+- JS or NodeJS
 - MySQL
 
 ## nikostack-desktop
@@ -16,14 +16,14 @@ This is my stack for making desktop apps and/or wrappers for webstuff.
 - Electron or Tauri (still didn't got much out of it)
 - HTML or NextJS
 - PicoCSS, Brush(invite-beta) or TailwindCSS
-- PureJS or Typescript
+- JS, NodeJS or Typescript
 - MySQL
 
 ## nikostack-mobile [experimental]
 This is a current experiment since i don't develop much mobile stuff. But when i do make some little apps this is my approach.
 - React native, Expo or Tauri(beta)
 - PicoCSS, Brush(invite-beta) or TailwindCSS
-- PureJS or Typescript
+- JS, NodeJS or Typescript
 - MySQL
 
 ## getting started (not working yet)
