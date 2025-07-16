@@ -7,24 +7,24 @@ I like to code and built things that work. simple as that. i don't like bloatwar
 ## nikostack-web
 This is my stack for anything web related, from simple landing pages to microservices and saas.
 - HTML, PHP or NextJS
-- PicoCSS, Brush(invite-beta) or TailwindCSS
+- PicoCSS, Bootstrap, Brush(invite-beta) or TailwindCSS
 - JS or NodeJS
-- MySQL
+- MySQL or MongoDB
 
 ## nikostack-desktop
 This is my stack for making desktop apps and/or wrappers for webstuff.
-- Electron or Tauri (still didn't got much out of it)
+- NeutralinoJS or Tauri (still didn't got much out of it cause i'm bad at rust)
 - HTML or NextJS
-- PicoCSS, Brush(invite-beta) or TailwindCSS
-- JS, NodeJS or Typescript
-- MySQL
+- PicoCSS, Bootstrap, Brush(invite-beta) or TailwindCSS
+- JS, NodeJS or Rust
+- MySQL or MongoDB
 
 ## nikostack-mobile [experimental]
 This is a current experiment since i don't develop much mobile stuff. But when i do make some little apps this is my approach.
 - React native, Expo or Tauri(beta)
-- PicoCSS, Brush(invite-beta) or TailwindCSS
+- PicoCSS, Bootstrap, Brush(invite-beta) or TailwindCSS
 - JS, NodeJS or Typescript
-- MySQL
+- MySQL or MongoDB
 
 ## getting started (not working yet)
 To create a project with my stacks just use the following commands based on the "module" you want.
