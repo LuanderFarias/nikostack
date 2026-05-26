@@ -2,12 +2,12 @@
 
 my minimalist stack stack made for creating multiple types of projects. A simple and adaptative stack composed by stuff i like and feel productive using.
 
-i like to code and built things that work. simple as that. i don't like bloatware, super complex functions unless necessary and third-party dependent code. i wanna make a stack that i can be productive and keep my values while ensuring simplicity and control over using only what i *actually* need, but also keeping it scalable in case i wanna add packages, frameworks, libraries or whatever. all shipped together on the CLI tool.
+i like to code and built things that work. simple as that. i don't like bloatware, super complex functions unless necessary and too much third-party dependent code. i wanna make a stack that keep my values while ensuring simplicity and control over using only what i *actually* need, but also keeping it scalable in case i wanna add packages, frameworks, libraries or whatever.
 
 ~ nikostack-web
 
 this is my stack for anything web related, from simple landing pages to microservices and saas.
-- HTML, PHP or NextJS
+- HTML or PHP
 - PicoCSS, Bootstrap, Brush(invite-beta) or TailwindCSS
 - JS or NodeJS
 - MySQL or MongoDB
@@ -16,7 +16,7 @@ this is my stack for anything web related, from simple landing pages to microser
 
 this is my stack for making desktop apps and/or wrappers for webstuff.
 - NeutralinoJS or Tauri (still didn't got much out of it cause i'm bad at rust)
-- HTML or NextJS
+- HTML ou PHP
 - PicoCSS, Bootstrap, Brush(invite-beta) or TailwindCSS
 - JS, NodeJS or Rust
 - MySQL or MongoDB
